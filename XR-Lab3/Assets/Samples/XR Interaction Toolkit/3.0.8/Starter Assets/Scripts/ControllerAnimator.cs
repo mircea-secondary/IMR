@@ -37,16 +37,24 @@ namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
 
         [SerializeField]
         XRInputValueReader<float> m_GripInput = new XRInputValueReader<float>("Grip");
+        
+        [SerializeField]
+        Animator handAnimator;
+
+        [SerializeField]
+        float m_GripThreshold = 0.5f;
+        [SerializeField]
+        float m_TriggerThreshold = 0.5f;
 
         void OnEnable()
         {
-            if (m_ThumbstickTransform == null || m_GripTransform == null || m_TriggerTransform == null)
+            // Keep API compatibility, but only warn if Animator is missing
+            if (handAnimator == null)
             {
                 enabled = false;
-                Debug.LogWarning($"Controller Animator component missing references on {gameObject.name}", this);
+                Debug.LogWarning($"Controller Animator component missing Animator reference on {gameObject.name}", this);
                 return;
             }
-
             m_StickInput?.EnableDirectActionIfModeUsed();
             m_TriggerInput?.EnableDirectActionIfModeUsed();
             m_GripInput?.EnableDirectActionIfModeUsed();
@@ -61,24 +69,12 @@ namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
 
         void Update()
         {
-            if (m_StickInput != null)
-            {
-                var stickVal = m_StickInput.ReadValue();
-                m_ThumbstickTransform.localRotation = Quaternion.Euler(-stickVal.y * m_StickRotationRange.x, 0f, -stickVal.x * m_StickRotationRange.y);
-            }
+            // Read input values
+            float gripVal = m_GripInput != null ? m_GripInput.ReadValue() : 0f;
+            float triggerVal = m_TriggerInput != null ? m_TriggerInput.ReadValue() : 0f;
 
-            if (m_TriggerInput != null)
-            {
-                var triggerVal = m_TriggerInput.ReadValue();
-                m_TriggerTransform.localRotation = Quaternion.Euler(Mathf.Lerp(m_TriggerXAxisRotationRange.x, m_TriggerXAxisRotationRange.y, triggerVal), 0f, 0f);
-            }
-
-            if (m_GripInput != null)
-            {
-                var gripVal = m_GripInput.ReadValue();
-                var currentPos = m_GripTransform.localPosition;
-                m_GripTransform.localPosition = new Vector3(Mathf.Lerp(m_GripRightRange.x, m_GripRightRange.y, gripVal), currentPos.y, currentPos.z);
-            }
+            handAnimator.SetBool("grabbing", gripVal > m_GripThreshold);
+            handAnimator.SetBool("pinching", triggerVal > m_TriggerThreshold);
         }
     }
 }
