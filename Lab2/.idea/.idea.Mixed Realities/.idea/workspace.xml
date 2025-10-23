@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c56d5f4-a2ed-413c-8dda-47378e614947" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mixed Realities/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mixed Realities/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mixed Realities/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AttackerScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AttackerScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/Cactus_demo.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/Cactus_demo.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/Mesh.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/Mesh.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/Mesh/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/Mesh/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/Mesh/Materials/Сactus_diffuse.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/Mesh/Materials/Сactus_diffuse.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/Prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/Prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/Texture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/Texture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/animation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/animation/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/animation/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character_Cactus/animation/Materials/Сactus_diffuse.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character_Cactus/animation/Materials/Сactus_diffuse.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/CylinderTargetTextures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/CylinderTargetTextures/VuforiaMars_Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/CylinderTargetTextures/VuforiaMars_Images/RocketBooster.Body_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/CylinderTargetTextures/VuforiaMars_Images/RocketBooster.Body_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/CylinderTargetTextures/VuforiaMars_Images/RocketBooster.Top_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/CylinderTargetTextures/VuforiaMars_Images/RocketBooster.Top_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/CylinderTargetTextures/VuforiaMars_Images/authoringinfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/CylinderTargetTextures/VuforiaMars_Images/authoringinfo.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint/CylinderTarget.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint/CylinderTarget/cylinder_booster_USLetter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint/CylinderTarget/cylinder_booster_USLetter.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint/ImageTargets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint/ImageTargets/target_images_USLetter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint/ImageTargets/target_images_USLetter.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint/MultiTarget.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint/MultiTarget/mars_box_USLetter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ForPrint/MultiTarget/mars_box_USLetter.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MRDb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MRDb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaEmulator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaEmulator/emulator_ground_plane_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaEmulator/emulator_ground_plane_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/Astronaut_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/Astronaut_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/Drone_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/Drone_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/Fissure_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/Fissure_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Back_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Back_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Bottom_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Bottom_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Front_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Front_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Left_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Left_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Right_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Right_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Top_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/MarsBox.Top_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/Oxygen_scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/VuforiaMars_Images/Oxygen_scaled.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireBody - Standart.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireBody - Standart.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireCloth vBlack - Standart.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireCloth vBlack - Standart.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireCloth vBlue - Standart.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireCloth vBlue - Standart.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireCloth vBrown - Standart.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireCloth vBrown - Standart.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireEyes - Standart.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_DireEyes - Standart.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_SceneBase Standart.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/Standart/M_SceneBase Standart.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireBody URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireBody URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireCloth URP vBlack.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireCloth URP vBlack.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireCloth URP vBluıe.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireCloth URP vBluıe.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireCloth URP vBrown.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireCloth URP vBrown.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireEyes URP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Materials/URP/M_DireEyes URP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Mesh/DireWarrior.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Mesh/DireWarrior.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Mesh/stage.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Mesh/stage.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/DireWarrior Black Pf Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/DireWarrior Black Pf Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/DireWarrior Blue Pf.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/DireWarrior Blue Pf.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/DireWarrior Brown  Pf Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/DireWarrior Brown  Pf Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/Scene Elements.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/Scene Elements/stage.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/Scene Elements/stage.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/URP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/URP/DireWarrior Black URP Pf Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/URP/DireWarrior Black URP Pf Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/URP/DireWarrior Blue URP Pf Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/URP/DireWarrior Blue URP Pf Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/URP/DireWarrior Brown URP Pf Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/PreFab/URP/DireWarrior Brown URP Pf Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Scene DireWarrior.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Scene DireWarrior.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/D-Dire Black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/D-Dire Black.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/D-Dire Blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/D-Dire Blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/D-Dire Brown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/D-Dire Brown.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/D-Dire-Head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/D-Dire-Head.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/EyeTexture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/EyeTexture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/N-Dire Cloth Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/N-Dire Cloth Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/N-Dire Face Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/N-Dire Face Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/R-Dire Cloth Metallic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/Textures/R-Dire Cloth Metallic.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ergin3d/DireWarrior/readme.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/AnimatorControllers/HumanF@Angry.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/AnimatorControllers/HumanF@Angry.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/VuforiaMars_Images.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/VuforiaMars_Images.dat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/VuforiaMars_Images.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/VuforiaMars_Images.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QCAR/lh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QCAR/somedata16" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/AttackingScript.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33shiV08EApAwTQ4KVGapJ5hQJO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:\Software\UnityEditors\2022.3.62f2\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;D:\Projects\UnityProjects\Mixed Realities&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Projects\UnityProjects\Mixed Realities" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:\Software\UnityEditors\2022.3.62f2\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;D:\Projects\UnityProjects\Mixed Realities&quot; -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Projects\UnityProjects\Mixed Realities" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c56d5f4-a2ed-413c-8dda-47378e614947" name="Changes" comment="" />
+      <created>1760111814585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760111814585</updated>
+      <workItem from="1760111817424" duration="1402000" />
+      <workItem from="1760118587877" duration="207000" />
+      <workItem from="1760598664893" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
